@@ -29,4 +29,9 @@ Kelas : TI.20.B.1
 
 ![gambar5](pictures/5.PNG)
 
+6. Mengatur Margin dan Padding
+
+![gambar6](pictures/6.PNG)
+
+
 
