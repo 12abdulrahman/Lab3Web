@@ -37,5 +37,9 @@ Kelas : TI.20.B.1
 
 ![gambar7](pictures/7.PNG)
 
+8. Membuat form
+
+![gambar8](pictures/8.PNG)
+
 
 
