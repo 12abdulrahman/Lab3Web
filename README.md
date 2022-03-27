@@ -25,4 +25,8 @@ Kelas : TI.20.B.1
 
 ![gambar4](pictures/4.PNG)
 
+5. Membuat list dalam tabel
+
+![gambar5](pictures/5.PNG)
+
 
