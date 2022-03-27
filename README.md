@@ -16,3 +16,8 @@ Kelas : TI.20.B.1
 2. Membuat ordered list
 
 ![gambar2](pictures/2.PNG)
+
+3. Membuat unordered list
+
+![gambar3](pictures/3.PNG)
+
