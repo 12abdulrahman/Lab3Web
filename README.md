@@ -12,3 +12,7 @@ Kelas : TI.20.B.1
 1. Membuat dokumen HTML
 
 ![gambar1](pictures/1.PNG)
+
+2. Membuat ordered list
+
+![gambar2](pictures/2.PNG)
