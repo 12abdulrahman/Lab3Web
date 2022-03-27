@@ -45,6 +45,12 @@ Kelas : TI.20.B.1
 
 ![gambar9](pictures/9.PNG)
 
+##pertanyaan dan tugas##
+1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+
+![gambar10](pictures/10.PNG)
+
+
 
 
 
