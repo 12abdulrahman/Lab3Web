@@ -21,3 +21,8 @@ Kelas : TI.20.B.1
 
 ![gambar3](pictures/3.PNG)
 
+4. Membuat Description List
+
+![gambar4](pictures/4.PNG)
+
+
