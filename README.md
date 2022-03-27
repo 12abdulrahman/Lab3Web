@@ -11,4 +11,4 @@ Kelas : TI.20.B.1
 
 1. Membuat dokumen HTML
 
-![gambar1](No1.PNG)
+![gambar1](1.PNG)
