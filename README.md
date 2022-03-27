@@ -33,5 +33,9 @@ Kelas : TI.20.B.1
 
 ![gambar6](pictures/6.PNG)
 
+7. Menggabungkan sel data
+
+![gambar7](pictures/7.PNG)
+
 
 
