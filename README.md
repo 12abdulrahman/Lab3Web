@@ -41,5 +41,10 @@ Kelas : TI.20.B.1
 
 ![gambar8](pictures/8.PNG)
 
+9. Menambahkan style pada form
+
+![gambar9](pictures/9.PNG)
+
+
 
 
